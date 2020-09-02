@@ -1,0 +1,42 @@
+body {margin: 0; padding: 0; background: #EDEDED;}
+h1, h2 {margin: 0; padding: 0;}
+p {padding: 0; margin-top: 0;}
+
+header .inner, #instructions .inner, #main, footer {width: 1000px; margin: 0 auto;}
+#main, footer {border-left:2px solid #E4E4E4; border-right: 2px solid #E4E4E4;}
+#container header {background-color: #002E39; color: #000; border-bottom: 1px solid #000;}
+#container header h1 {background: url(../img/wb_logo.gif) no-repeat left center #002E39; padding: 10px 0 10px 130px; font-size: 15px; color: #fff; margin: 0;}
+#container header span {float: right; font-size: 17px;}
+#instructions {background-color: #003D4C; border-bottom: 2px solid #000; color: #fff; padding: 10px;}
+    #instructions a, #instructions a:hover, #instructions a:visited {color: #00AB8E;}
+#main {padding: 10px; background-color: #FBFBFB;}
+#footer {}
+
+.info {border: 1px dashed #000; background: #fff; margin: 10px auto; padding: 10px;}
+
+.questionContainer {border-bottom: 1px dashed #000; padding-bottom: 20px; margin-bottom: 20px;}
+    .prompt {}
+    .answer {margin-top: 10px;}
+    .prefix {font-weight: bold; color: red;}
+    .questionContainer img {display: block; border: 1px solid #000;}
+    .sampleCode {border: 1px dashed #000; background: #FFFF7E; padding: 10px;}
+        .sampleCode p:last-child {margin-bottom: 0;}
+        .prettyprint {background-color: #fff; overflow: auto;}
+
+    
+/** Question Specific Styles **/
+#floatsWrappedByBox .sampleCode .col-1 {border: 1px dotted blue;}
+#floatsWrappedByBox .sampleCode .col-2 {border: 1px dotted green}
+#floatsWrappedByBox .sampleCode .col-3 {position: relative; bottom: 10px; float: left; border: 1px dotted blue;}
+#floatsWrappedByBox .sampleCode .col-4 {position: relative; bottom: 10px; float: left; border: 1px dotted green; margin-left: 5px;}
+
+#formStyling .sampleCode {width: 345px; padding: 5px;}
+#formStyling .sampleCode label {display: block; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 18px;}
+#formStyling .sampleCode input {width: 300px; box-shadow: inset 0px 1px; border-radius: 3px;}
+#formStyling .sampleCode textarea {border-style: solid; box-shadow: inset 0px 1px; border-radius: 3px;}
+#formStyling .sampleCode a {font-family: Georgia, 'Times New Roman', Times, serif; font-size: 18px;}
+
+.hidden {display: none;}
+
+#mysteriousBox img {border: none;}
+

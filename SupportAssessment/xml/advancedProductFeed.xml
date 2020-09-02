@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Feed xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/4.7" name="ClientName" incremental="true" extractDate="2012-01-11T17:04:32.579Z">
+    <Categories>
+        <Category>
+            <ExternalId>0110100001101111011101110110010001111001</ExternalId>
+            <Name>Bacon</Name>
+            <CategoryPageUrl>http://www.foo.com/category/page/url/bacon/</CategoryPageUrl>
+        </Category>
+    </Categories>
+    <Products>
+        <Product>
+            <ExternalId>0101010101110000001000000100100001101001011001110110100000100001</ExternalId>
+            <Name>Advanced Product Name</Name>
+            <Description>Bacon ipsum dolor sit amet tenderloin t-bone sausage tri-tip shank leberkase, ham biltong tail turducken kielbasa frankfurter. Tri-tip beef turkey short loin ball tip. Bacon jowl meatball ribeye. Ham beef spare ribs cow, short ribs filet mignon \ shankle tri-tip sirloin bacon salami jerky flank pork belly. Cow beef ribs jerky shank, pork chop chuck andouille ham hamburger venison tenderloin chicken spare ribs. Ground round t-bone meatloaf, sausage flank ribeye pancetta meatball tenderloin pork belly drumstick frankfurter shoulder spare ribs turducken. Short loin rump tenderloin ground round ball tip.</Description>
+            <CategoryExternalId>0110100001101111011101110110010001111001</CategoryExternalId>
+            <ProductPageUrl>http://www.foo.com/product/page/url/advanced/default?attribute=one&category=bacon</ProductPageUrl>
+            <ImageUrl>http://www.foo.com/product/image/path/file.png</ImageUrl>
+            <ManufacturerPartNumbers>
+                <ManufacturerPartNumber>0123456789</ManufacturerPartNumber>
+            </ManufacturerPartNumbers>
+            <Attributes>
+                <Attribute id="BV_FE_FAMILY">
+                    <Value>ProductFamily</Value>
+                </Attribute>
+            </Attributes>
+        </Product>
+    </Products>
+</Feed>

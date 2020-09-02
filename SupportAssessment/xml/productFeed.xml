@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Feed>
+    <Products>
+        <Product>
+            <ExternalId>010011000110100101110110011001010010000001001100011011110110111001100111</ExternalId>
+            <Name>Product Name Alpha</Name>
+            <Description>Quinoa salvia beard, synth gentrify lomo photo booth terry richardson. Food truck lomo wes anderson, yr photo booth ethical tattooed vice mustache tofu gluten-free chambray keytar shoreditch. Tumblr fixie brunch quinoa 8-bit. Four loko gluten-free high life pitchfork sustainable.</Description>
+            <ProductPageUrl>http://www.foo.com/product/page/url/alpha/</ProductPageUrl>
+            <ManufacturerPartNumbers>
+                <ManufacturerPartNumber>0123456789</ManufacturerPartNumber>
+            </ManufacturerPartNumbers>
+            <Attributes>
+                <Attribute id="Family">
+                    <Value>ProductFamily</Value>
+                </Attribute>
+            </Attributes>
+        </Product>
+        <Product>
+            <ExternalId>0100000101101110011001000010000001010000011100100110111101110011011100000110010101110010</ExternalId>
+            <Name>Product Name Beta</Name>
+            <Description>Tattooed trust fund american apparel portland chambray, lomo brunch synth salvia +1. Butcher portland Austin cred trust fund. Sartorial dreamcatcher raw denim, farm-to-table before they sold out tattooed iphone mcsweeney's single-origin coffee fap organic.</Description>
+            <ProductPageUrl>http://www.foo.com/product/page/url/beta/</ProductPageUrl>
+            <ManufacturerPartNumbers>
+                <ManufacturerPartNumber>9876543210</ManufacturerPartNumber>
+            </ManufacturerPartNumbers>
+            <Attributes>
+                <Attribute>
+                    <Value>ProductFamily</Value>
+                </Attribute>
+            </Attributes>
+        </Product>
+    </Products>
+</Feed>
